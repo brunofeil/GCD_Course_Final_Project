@@ -3,6 +3,7 @@
 ## How the script work
 There are several comments in the R script explaining how the script work (the functions and the steps to get to the tidy data set exported). So I'm gonna use this readme file to explain the variables in the Script
 
+## Codebook
 ### The variables (in order of appearance)
 
 train_data -> train data set
